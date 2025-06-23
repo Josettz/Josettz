@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Jose 👋</h1>
-<h3 align="center">Me apasiona la tecnología y soy un estudiante de primer semestre en la carrera de Ing de software, en la UNEMI. 🌱</h3>
+<h3 align="center">Me apasiona la tecnología y soy un estudiante de segundo semestre en la carrera de Ing de software, en la UNEMI. 🌱</h3>
 
 **- 📫 Puedes contactarme mediante: **correoparaestudiosjose@gmail.com****
 
