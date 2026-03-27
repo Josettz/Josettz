@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Jose 👋</h1>
-<h3 align="center">Me apasiona la tecnología y soy un estudiante de segundo semestre en la carrera de Ing de software, en la UNEMI. 🌱</h3>
+<h3 align="center">Me apasiona la tecnología y soy un estudiante de cuarto semestre en la carrera de Ing de software, en la UNEMI. 🌱</h3>
 
-**- 📫 Puedes contactarme mediante: **correoparaestudiosjose@gmail.com****
+**- 📫 Puedes contactarme mediante: **antoniott2006@gmail.com****
 
 <h3 align="left">Redes:</h3>
 <p align="left">
