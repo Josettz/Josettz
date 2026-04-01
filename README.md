@@ -44,8 +44,3 @@
 <a href="https://discord.gg/dNQ39PzJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Jose" height="30" width="40" /></a>
 </p>
 
----
-
-### 📊 Mis Estadísticas de GitHub:
-
-![Estadísticas de Jose](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
