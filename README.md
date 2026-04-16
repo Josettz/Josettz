@@ -1,6 +1,6 @@
 # Hola, soy Jose 👋
 
-**Estudiante de Ingeniería de Software (4to Semestre - UNEMI)** *Desarrollador Full-Stack enfocado en Django & React*
+**Estudiante de Ingeniería de Software (4to Semestre - UNEMI)** *Desarrollador Full-Stack en formación enfocado en Django & React*
 
 ---
 
