@@ -26,9 +26,3 @@
 <a href="mailto:antoniott2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josettz&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="380"/>
-</p>
