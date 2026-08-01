@@ -1,47 +1,66 @@
-# ¡Hola! Soy Jose Antonio Torres 👋
+# ¡Hola! Soy Jose 👋
 
-**Estudiante de Ingeniería de Software (5to Semestre - UNEMI)** | *Desarrollador Full-Stack en formación enfocado en Backend, Arquitectura & Sistemas*
+**Estudiante de Ingeniería de Software (5to Semestre - UNEMI)** | *Desarrollador Full-Stack enfocado en Backend, Django, Arquitectura & Bases de Datos*
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 🎓 Cursando **5to Semestre** de **Ingeniería de Software** en la **Universidad Estatal de Milagro (UNEMI)**, Ecuador.
-- 💻 Enfocado en el desarrollo backend, diseño de arquitectura de software limpio (**Principios SOLID**) y administración de bases de datos relacionales.
-- 🛠️ Experiencia práctica simulando sistemas en tiempo real con microcontroladores (**ESP32**, **FreeRTOS**, gestión de hilos y **MUTEX**).
-- 📈 Próximos conocimientos y enfoques para este nuevo semestre (a iniciar el 24 de agosto): *Construcción de Software, Administración de Bases de Datos, Redes de Datos, Investigación de Operaciones e Ingeniería Económica para Software*.
-- 💡 Apasionado por aprender constantemente y aplicar buenas prácticas de desarrollo en cada proyecto.
+- 🎓 Cursando **5to Semestre** de **Ingeniería de Software** en la **UNEMI** (Guayaquil, Ecuador).
+- 💻 Desarrollador enfocado en backend con **Django** (Vistas basadas en Funciones y Clases), **Flask** y arquitecturas limpias (**Principios SOLID**).
+- 🗄️ Manejo de diseño y administración de **Bases de Datos Relacionales** y optimización de consultas.
+- 🛠️ Experiencia práctica en **sistemas concurrentes** (*multithreading*, kernels y FreeRTOS/MUTEX en ESP32).
+- 📈 Próximos enfoques para este nuevo ciclo (24 de agosto): *Construcción de Software, Administración de Bases de Datos, Redes de Datos e Investigación de Operaciones*.
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+## 🛠️ Stack Tecnológico
 
-### **Lenguajes de Programación & Frameworks**
-- **Lenguajes:** Python, JavaScript, HTML5, CSS3, C/C++ (Embedded / FreeRTOS).
-- **Frameworks Web:** Django, Flask, React, Bootstrap.
-
-### **Bases de Datos & Gestión de Datos**
-- **Sistemas de Gestión de BD:** SQL Server (SQL Server Management Studio), SQLite, MySQL.
-- **Conceptos:** Diseños Entidad-Relación (ER), consultas avanzadas, optimización e integridad de datos.
-
-### **Arquitectura, Sistemas Operativos & Conceptos Avanzados**
-- **Arquitectura de Software:** Principios SOLID, patrones de diseño.
-- **Sistemas Operativos & Concurrencia:** Linux, Windows, macOS, manejo de kernels, procesos, *multithreading* y sincronización de hilos (MUTEX/FreeRTOS).
-- **Herramientas & Control de Versiones:** Git, GitHub, VS Code, SSMS.
-- **Gestión & Fundamentos:** Administración General, Metodologías de Desarrollo.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jose's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+### **Lenguajes & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 
+- **Django Avanzado:** Vistas basadas en funciones (FBV) y vistas basadas en clases (CBV).
+- **Backend & Web:** Python, Flask, JavaScript, React, HTML5, CSS3, Bootstrap.
+- **Sistemas / Embebidos:** C/C++ (FreeRTOS, concurrencia y MUTEX).
+
+### **Bases de Datos & Gestión**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+- SQL Server (SSMS), PostgreSQL, Oracle Database, SQLite, MySQL.
+- Modelado Entidad-Relación (ER), consultas avanzadas e integridad de datos.
+
+### **Arquitectura & Sistemas Operativos**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+- **Conceptos Clave:** Principios SOLID, patrones de diseño, arquitectura limpia.
+- **Sistemas Operativos:** Linux, Windows, macOS (Manejo de hilos, kernels y procesos).
+- **Herramientas:** Git, GitHub, VS Code, SSMS.
+
 ---
 
-## 📫 Contacto & Redes
+## 📫 Contacto
 
-- **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario)
-- **Email:** [tu.correo@unemi.edu.ec](mailto:tu.correo@unemi.edu.ec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.torres@unemi.edu.ec)
