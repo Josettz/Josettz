@@ -10,6 +10,7 @@
 - 💻 Desarrollador enfocado en backend con **Django** (Vistas basadas en Funciones y Clases), **Flask** y arquitecturas limpias (**Principios SOLID**).
 - 🗄️ Manejo de diseño y administración de **Bases de Datos Relacionales** y optimización de consultas.
 - 🛠️ Experiencia práctica en **sistemas concurrentes** (*multithreading*, kernels y FreeRTOS/MUTEX en ESP32).
+- 🤖 Integración de **Herramientas de IA** (Claude, Gemini, Asistentes de Código) para optimización del ciclo de desarrollo.
 - 📈 Próximos enfoques para este nuevo ciclo (24 de agosto): *Construcción de Software, Administración de Bases de Datos, Redes de Datos e Investigación de Operaciones*.
 
 ---
@@ -45,18 +46,19 @@
 - SQL Server (SSMS), PostgreSQL, Oracle Database, SQLite, MySQL.
 - Modelado Entidad-Relación (ER), consultas avanzadas e integridad de datos.
 
-### **Arquitectura & Sistemas Operativos**
+### **Herramientas, Sistemas Operativos & IA**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-- **Conceptos Clave:** Principios SOLID, patrones de diseño, arquitectura limpia.
-- **Sistemas Operativos:** Linux, Windows, macOS (Manejo de hilos, kernels y procesos).
-- **Herramientas:** Git, GitHub, VS Code, SSMS.
+- **Entornos Linux:** Arch Linux (CachyOS), Manjaro, Ubuntu, Windows y macOS.
+- **Modelado & Diseño:** Lucidchart (Diagramación de arquitecturas y diagramas ER).
+- **IDEs & Herramientas:** Visual Studio Code, Git, GitHub, SSMS.
+- **AI-Assisted Development:** Uso responsable de IA (Claude, Gemini, Asistentes de Código) para refactorización, optimización y resolución de problemas.
 
 ---
 
