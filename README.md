@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Josettz&theme=tokyonight&hide_border=false" alt="Jose's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-five.vercel.app?user=Josettz&theme=tokyonight&hide_border=false" alt="Jose's GitHub Streak" />
 </p>
 
 ---
