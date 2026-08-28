@@ -83,10 +83,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Jose's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Jose's Top Languages" />
-</p>
-
 ---
 
 <p align="center">
