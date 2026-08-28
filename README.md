@@ -77,11 +77,14 @@
 
 ---
 
-## 📈 Métricas de Perfil
+## 📊 Github stats:
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Josettz?label=Seguidores&style=for-the-badge&color=2563eb&logo=github" alt="Seguidores" />
-  <img src="https://komarev.com/ghpvc/?username=Josettz&label=Visitas%20al%20Perfil&color=0ea5e9&style=for-the-badge" alt="Visitas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Jose's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Josettz&theme=tokyonight&hide_border=false" alt="Jose's GitHub Streak" />
 </p>
 
 ---
