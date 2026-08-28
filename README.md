@@ -1,6 +1,6 @@
-<h1 align="center">
-  ¡Hola! Soy Jose Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Jose%20Torres&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+(5to+Semestre);Desarrollador+Full-Stack;Apasionado+por+las+Bases+de+Datos+y+Arquitectura;Explorador+de+Sistemas+Embebidos+y+FreeRTOS" alt="Typing SVG" />
@@ -77,19 +77,15 @@
 
 ---
 
-## 📊 Actividad & Métricas en GitHub
+## 📈 Métricas de Perfil
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josettz&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Actividad de GitHub" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
+  <img src="https://img.shields.io/github/followers/Josettz?label=Seguidores&style=for-the-badge&color=2563eb&logo=github" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=Josettz&label=Visitas%20al%20Perfil&color=0ea5e9&style=for-the-badge" alt="Visitas" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Construyendo soluciones eficientes un commit a la vez 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&section=footer&text=Construyendo%20soluciones%20eficientes%20un%20commit%20a%20la%20vez%20🚀&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
