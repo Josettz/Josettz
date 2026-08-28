@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+(5to+Semestre);Desarrollador+Full-Stack;Apasionado+por+las+Bases+de+Datos+y+Arquitectura;Explorador+de+Sistemas+Embebidos+y+FreeRTOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+(5to+Semestre);Desarrollador+Full-Stack;Apasionado+por+las+Bases+de+Datos+y+Arquitectura;Soluciones+Escalables+y+Buenas+Pr%C3%A1cticas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
         <li>💻 Enfocado en el <b>desarrollo Full-Stack integral</b>, construyendo interfaces modernas y backends robustos.</li>
         <li>🗄️ Especial interés en el <b>diseño, modelado y administración de Bases de Datos Relacionales</b> (optimización de consultas, normalización e integridad).</li>
         <li>📐 Aplicando <b>principios SOLID y patrones de diseño</b> para crear software escalable y mantenible.</li>
-        <li>⚙️ Experimentando con <b>sistemas concurrentes</b> (hilos, sincronización con MUTEX y FreeRTOS en ESP32).</li>
+        <li>🤖 Integrando <b>herramientas de Inteligencia Artificial</b> para optimizar flujos de trabajo, refactorización y depuración de código.</li>
         <li>🎯 <i>Metas actuales:</i> Profundizar en arquitectura de software avanzada, administración profunda de DB e investigación de operaciones.</li>
       </ul>
     </td>
@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### 🗄️ Bases de Datos & Modelado
@@ -64,14 +62,16 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### ⚙️ Herramientas, Entornos & Sistemas
+### ⚙️ Herramientas, Entornos, Sistemas & IA
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Lucidchart-F26522?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
 </p>
 
