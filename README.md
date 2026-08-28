@@ -77,18 +77,15 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad & Métricas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josettz&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Actividad de GitHub" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Josettz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Logros de GitHub" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
 </p>
 
 ---
