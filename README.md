@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app?user=Josettz&theme=tokyonight&hide_border=false" alt="Jose's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Jose's Top Languages" />
 </p>
 
 ---
