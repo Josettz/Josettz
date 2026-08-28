@@ -1,69 +1,103 @@
-# ¡Hola! Soy Jose 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="100%"/>
+</p>
 
-**Estudiante de Ingeniería de Software (UNEMI)** | *Desarrollador Full-Stack | Bases de Datos, Arquitectura & Soluciones Escalables*
+<h1 align="center">
+  ¡Hola! Soy Jose Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+(5to+Semestre);Desarrollador+Full-Stack;Apasionado+por+las+Bases+de+Datos+y+Arquitectura;Explorador+de+Sistemas+Embebidos+y+FreeRTOS" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-antonio-torres-torres-aa3a41181/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jose.torres@unemi.edu.ec">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 🎓 Cursando la carrera de **Ingeniería de Software** en la **Universidad Estatal de Milagro (UNEMI)**, Ecuador.
-- 🌐 Desarrollador enfocado en el **desarrollo Full-Stack integral**: construyendo interfaces web atractivas (**React, Bootstrap**) y backends robustos (**Django, Flask**).
-- 🗄️ Apasionado por la **administración y diseño de Bases de Datos Relacionales** (SQL Server, PostgreSQL, Oracle, SQLite), modelado Entidad-Relación y optimización de consultas.
-- 📐 Aplicación de **arquitecturas limpias y mantenibles** (**Principios SOLID**, patrones de diseño) para crear software de alta calidad.
-- ⚙️ Experiencia en **sistemas concurrentes** (*multithreading*, kernels y desarrollo embebido con FreeRTOS/MUTEX en ESP32).
-- 💡 Me apasiona resolver **problemas complejos**, **optimizar código**, **depurar bugs** y construir soluciones escalables que generen un impacto real.
-- 🎯 **Enfoques a futuro:** Dominar la *Construcción de Software avanzada*, la *Administración profunda de Bases de Datos*, la optimización con *Investigación de Operaciones* y la infraestructura en *Redes de Datos*.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 Cursando el <b>5to semestre de Ingeniería de Software</b> en la <b>Universidad Estatal de Milagro (UNEMI)</b>.</li>
+        <li>💻 Enfocado en el <b>desarrollo Full-Stack integral</b>, creando interfaces modernas y backends eficientes.</li>
+        <li>🗄️ Especial interés en el <b>diseño, modelado y administración de Bases de Datos Relacionales</b> (optimización de consultas, normalización e integridad).</li>
+        <li>📐 Aplicando <b>principios SOLID y patrones de diseño</b> para construir software escalable, mantenible y limpio.</li>
+        <li>⚙️ Experimentando con <b>sistemas concurrentes</b> (hilos, exclusión mutua con MUTEX y kernels embebidos con FreeRTOS en ESP32).</li>
+        <li>🎯 <i>Metas actuales:</i> Profundizar en arquitectura de software avanzada, administración de DB a gran escala e investigación de operaciones.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### **Desarrollo Full-Stack (Frontend & Backend)**
+### 🌐 Desarrollo Frontend & Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-- **Backend:** Python (Django avanzado: Vistas basadas en Funciones y Clases, Flask).
-- **Frontend & Diseño Web:** React, JavaScript, HTML5, CSS3, Bootstrap.
-- **Sistemas / Embebidos:** C/C++ (FreeRTOS, concurrencia y MUTEX).
-
-### **Bases de Datos & Gestión de Datos**
+### 🗄️ Bases de Datos & Modelado
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-- SQL Server (SSMS), PostgreSQL, Oracle Database, SQLite, MySQL.
-- Modelado Entidad-Relación (ER), diseño de esquemas, consultas avanzadas e integridad de datos.
-
-### **Herramientas, Sistemas Operativos & IA**
+### ⚙️ Herramientas, Entornos & Sistemas
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Lucidchart-F26522?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart" />
 </p>
-
-- **Entornos Linux:** Arch Linux (CachyOS), Manjaro, Ubuntu, Windows y macOS.
-- **Modelado & Diseño:** Lucidchart (Diagramación de arquitecturas, flujos y diagramas ER).
-- **IDEs & Herramientas:** Visual Studio Code, Git, GitHub, SSMS.
-- **AI-Assisted Development:** Uso de herramientas de IA (Claude, Gemini, Asistentes de Código) para refactorización, depuración y aceleración del desarrollo.
 
 ---
 
-## 📫 Contacto
+## 📊 Estadísticas de GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-torres-torres-aa3a41181/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.torres@unemi.edu.ec)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+<p align="center">
+  <i>Construyendo soluciones eficientes un commit a la vez 🚀</i>
+</p>
