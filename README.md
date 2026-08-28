@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="100%"/>
-</p>
-
 <h1 align="center">
   ¡Hola! Soy Jose Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
@@ -28,11 +24,11 @@
     <td width="65%" valign="top">
       <ul>
         <li>🎓 Cursando el <b>5to semestre de Ingeniería de Software</b> en la <b>Universidad Estatal de Milagro (UNEMI)</b>.</li>
-        <li>💻 Enfocado en el <b>desarrollo Full-Stack integral</b>, creando interfaces modernas y backends eficientes.</li>
+        <li>💻 Enfocado en el <b>desarrollo Full-Stack integral</b>, construyendo interfaces modernas y backends robustos.</li>
         <li>🗄️ Especial interés en el <b>diseño, modelado y administración de Bases de Datos Relacionales</b> (optimización de consultas, normalización e integridad).</li>
-        <li>📐 Aplicando <b>principios SOLID y patrones de diseño</b> para construir software escalable, mantenible y limpio.</li>
-        <li>⚙️ Experimentando con <b>sistemas concurrentes</b> (hilos, exclusión mutua con MUTEX y kernels embebidos con FreeRTOS en ESP32).</li>
-        <li>🎯 <i>Metas actuales:</i> Profundizar en arquitectura de software avanzada, administración de DB a gran escala e investigación de operaciones.</li>
+        <li>📐 Aplicando <b>principios SOLID y patrones de diseño</b> para crear software escalable y mantenible.</li>
+        <li>⚙️ Experimentando con <b>sistemas concurrentes</b> (hilos, sincronización con MUTEX y FreeRTOS en ESP32).</li>
+        <li>🎯 <i>Metas actuales:</i> Profundizar en arquitectura de software avanzada, administración profunda de DB e investigación de operaciones.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -84,19 +80,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josettz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
 
 <p align="center">
   <i>Construyendo soluciones eficientes un commit a la vez 🚀</i>
