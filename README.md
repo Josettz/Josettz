@@ -80,12 +80,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josettz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josettz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josettz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Josettz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Logros de GitHub" />
 </p>
 
 ---
